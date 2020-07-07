@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     position: static;
 }
 .card{
@@ -16,12 +16,26 @@ body{
     text-align: center;
     padding: 20px;
     background-color: #FFFFFF;
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 20px 40pxg rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+}
+.online{
+    text-align: center;
+    margin-bottom: 80px;
 }
 
 .container img{
     width: 20%;
+}
+#courses{
+    text-align: justify;
+    padding: 10px;
+}
+#courses img{
+    width: 100%;
+}
+.row{
+    text-align: right;
 }
 .ready{
     color: #FD511A;
