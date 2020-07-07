@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 60px;
+    position: static;
+}
+.card{
+    text-align: center;
+    padding: 20px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+   
+}
+#jhamela{
+    text-align: center;
+    padding: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.container img{
+    width: 20%;
+}
+.ready{
+    color: #FD511A;
+}
+.any{
+    color: #21B573;
+}
+.button{
+        background-color: #21B573;
+        color: white;
+        border: none;
+        border-radius: 33px;
+        padding: 12px 28px;
+        cursor: pointer;
+}
+.nav-link{
+    font-weight: bold;
+}
