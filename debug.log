@@ -1,3 +1,6 @@
 [0708/022605.806:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
 [0708/022605.817:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [0708/022605.819:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0708/223849.962:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0708/223850.058:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0708/223850.060:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
