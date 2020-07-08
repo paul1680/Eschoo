@@ -52,13 +52,17 @@ body{
 
 .all{
     margin-top: 40px;
-    text-align: justify;
+    text-align: left;
 }
 .ready{
     color: #FD511A;
 }
 .any{
     color: #21B573;
+}
+.test{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #testimonial img{
     width: 23%;
@@ -68,9 +72,10 @@ body{
     color: white;
     padding-top: 40px;
     padding-bottom: 5px;
+    padding-left: 80px;
 }
 .list{
-    padding-left: 50px;
+    padding-left: 20px;
 }
 .faltu{
     padding-left: 80px;
