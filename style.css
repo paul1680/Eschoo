@@ -5,10 +5,6 @@ body{
     padding-bottom: 40px;
     position: static;
 }
-.one{
-    margin-bottom: 50px;
-    
-}
 .top{
     background-color:  #F0FFF0;
     
@@ -54,7 +50,7 @@ body{
     width: 100%;
 }
 
-.row{
+.all{
     margin-top: 40px;
     text-align: justify;
 }
@@ -64,15 +60,24 @@ body{
 .any{
     color: #21B573;
 }
-.test{
-    background-color: #E5E5E5;
-    padding-bottom: 20px;
-}
 #testimonial img{
     width: 23%;
 }
 .bottom{
     background-color: #282531;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.list{
+    padding-left: 50px;
+}
+.faltu{
+    padding-left: 80px;
+}
+footer{
+    margin-top: 80px;
+    font-weight: 100;
 }
 .button{
         background-color: #21B573;
