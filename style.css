@@ -95,3 +95,15 @@ footer{
 .nav-link{
     font-weight: bold;
 }
+.bg{
+    padding-top: 20px;
+    background-color: #a99fc9 ;
+    color: black;
+}
+.bg h5{
+    font-weight: 900;
+}
+.bg img{
+    width: 100%;
+}
+
